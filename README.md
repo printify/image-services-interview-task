@@ -1,5 +1,7 @@
 # Image Services Practical task 1
 
+![Shapes and holes](https://images-na.ssl-images-amazon.com/images/I/51vYrk2IVLL._AC_SY450_.jpg)
+
 Your task is to write tests for and write a function to determine if a given triangle fits in another triangle.
 
 The function should take the dimensions of two triangles (as arrays) and checks if the first triangle fits into the second one.
